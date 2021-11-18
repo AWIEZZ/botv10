@@ -39,20 +39,3 @@ Off in web nya
 </p>
 
 
-## ```COFFEE```
-
-- [`SAWERIA`](https://saweria.co/zeeoneofc)
-
-## ```GROUP SUPPORT```
-
-- [`Alphabot 1`](https://chat.whatsapp.com/EU890BcXjyBDkNaUT5WmYV)
-- [`Alphabot 2`](https://chat.whatsapp.com/E8NExJwIbhBJYzssfqJNsE)
-- [`Alphabot 3`](https://chat.whatsapp.com/KCSqHTky1apG7ApePsfiPy)
-
-## `THANKS TO`
-
-- Allah SWT.
-- My parents
-- All Friends
-- All Contributors
-- All Creator Bot
